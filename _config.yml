@@ -1,0 +1,14 @@
+layout_spectrum: 0.5763900706078857
+typography_spectrum: 0.46456768712960184
+color:
+  brandStrength: 0.06419281964190304
+  lightness: 0.26557297678664327
+  saturation: 0.13595076464116573
+  rhythmicContrast: 0.08120896713808179
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: ALW
